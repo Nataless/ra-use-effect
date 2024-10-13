@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Details from "./Details";
 import List from "./List";
-import { User } from './types';
+import { User } from './Types';
 import './ListUsersApp.css'
 
 const ListUsersApp: React.FC = () => {

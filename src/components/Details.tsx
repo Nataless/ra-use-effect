@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from 'react';
-import { User } from './types';
+import { useEffect, useState } from 'react';
+import { User } from './Types';
 
 interface UserDetails {
   id: number;
